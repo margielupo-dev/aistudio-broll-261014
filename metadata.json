@@ -1,0 +1,6 @@
+{
+  "name": "Margie Lupo Real Estate Content Engine",
+  "description": "Strategic AI-driven real estate marketing and social content library for Brentwood, CA and Trilogy at the Vineyards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
